@@ -4,11 +4,11 @@
     "users":  [{"url" :  "https://crm.gloss.am/upload/main/c03/iuoph8r6rpnabk7cs64luqkks74rmu5d/avatar.png", "name" :  "Inesa Meiliksetyan", "id" :  "1"}],
     "children": [
       {
-        "name": "Marketing team",
+        "name": "Marketing Manager",
         "users":  [{"url" :  "https://crm.gloss.am/upload/main/630/k3alcj66jlggp1if4qprzavapbwh1hw0/avatar.png", "name" :  "Armine Margaryan", "id" :  "1","position": "Marketing Manager"}],
         "children":[
           {
-            "name": "Digital SMM",
+            "name": "Marketing team",
             "users":  [{"url" :  "https://crm.gloss.am/upload/main/034/ncr5jr52whee63ed0ou2b1yclep46yc3/56556051_324005698236568_8918271922517573632_n.jpg.png", "name" : "Lilit Manukyan", "id" :  "1","position": "Digital SMM specialist"},
               {"url" :"https://crm.gloss.am/upload/main/cb6/ms7y6seoynlhdn0ok5kia0d4ghzqmznz/6856640E-B3CD-43CA-8BA1-7CF43087AD04.png", "name" : "Narine Karghinyan","id":"1","position": "Digital SMM specialist"}],
             "children": [
@@ -36,20 +36,19 @@
               {
                 "name": "Assistant to finance department",
                 "users":  [
-                  {"url" :  "https://crm.gloss.am/upload/main/82a/2xmr9sczjl9bk0dttfbdzthtudvdshg4/IMG_20210820_150549810.jpg.png", "name" :  "Vanik Arsenyan", "id" :  "2","position":"Assistant to finance"}],
-                "children": [
+                  {"url" :  "https://crm.gloss.am/upload/main/82a/2xmr9sczjl9bk0dttfbdzthtudvdshg4/IMG_20210820_150549810.jpg.png",
+                    "name" :  "Vanik Arsenyan", "id" :  "2","position":"Assistant to finance"}]
+
+              }, {
+                "name": "Accountant ",
+                "users":  [
+                  {"url" :  "https://crm.gloss.am/upload/main/117/s3aihw1j509694mf2h5p0etj35zpxy03/WhatsApp%20Image%202022-11-23%20at%2010.12.49.png", "name":"Melania Arzumanyan", "id" :"1","position":"Accountant"},
+                  {"url":"https://crm.gloss.am/upload/main/6ae/yqy5ztka2182qha18d72yc8t3ev6c6xg/WhatsApp%20Image%202022-11-23%20at%2010.09.01%20(2).png", "name" :  "Tatyana Sargsyan", "id" :  "2","position":"Accountant"}],
+                "children":[
                   {
-                    "name": "Accountant ",
+                    "name": "junior accountant",
                     "users":  [
-                      {"url" :  "https://crm.gloss.am/upload/main/117/s3aihw1j509694mf2h5p0etj35zpxy03/WhatsApp%20Image%202022-11-23%20at%2010.12.49.png", "name":"Melania Arzumanyan", "id" :"1","position":"Accountant"},
-                      {"url":"https://crm.gloss.am/upload/main/6ae/yqy5ztka2182qha18d72yc8t3ev6c6xg/WhatsApp%20Image%202022-11-23%20at%2010.09.01%20(2).png", "name" :  "Tatyana Sargsyan", "id" :  "2","position":"Accountant"}],
-                    "children":[
-                      {
-                        "name": "junior accountant",
-                        "users":  [
-                          {"url" :  "https://crm.gloss.am/upload/main/d42/v735djnn06o8ublulw96rhwyuo7sg7el/WhatsApp%20Image%202023-01-09%20at%2010.26.05.png", "name" :  "Serine Kirakosyan", "id" :  "","position": "junior accountant"}
-                        ]
-                      }
+                      {"url" :  "https://crm.gloss.am/upload/main/d42/v735djnn06o8ublulw96rhwyuo7sg7el/WhatsApp%20Image%202023-01-09%20at%2010.26.05.png", "name" :  "Serine Kirakosyan", "id" :  "","position": "junior accountant"}
                     ]
                   }
                 ]
